@@ -1,5 +1,5 @@
 Introduction
-The program allows users to create bookings, add services, calculate total prices, and approve or reject each booking. I use several programming principles including KISS (Keep It Simple, Stupid), DRY (Don’t Repeat Yourself), loops, and global variables. This booking system shows the code is maintainable, readable and understandable. And last it also shows the booking details and statistics which make it perfect for customers
+The program allows users to create bookings, add services, calculate total prices, and approve or reject each booking. I use several programming principles including KISS (Keep it simple, stupid), DRY (Do not repeat yourself), loops, and global variables. This booking system shows the code is maintainable, readable and understandable. And last it also shows the booking details and statistics which make it perfect for customers
 
 Features
 •	Customer information: Collect customer information such as form of ID, ID number, and passenger name and print it clearly to make it clear to everyone.
@@ -16,8 +16,8 @@ How to Use
 The program uses loops to allow multiple services and multiple bookings without repeating code, making it fast and easy to use for customers.
 
 Programming Principles Applied
-•	KISS (Keep It Simple, Stupid): The program is easy, simple, and clear to understand for everyone.
-•	DRY (Don’t Repeat Yourself): DRY methods were used to avoid repeating the same code for multiple tasks which make it easier to code and make it short.
+•	KISS (Keep it simple, stupid): The program is easy, simple, and clear to understand for everyone.
+•	DRY (Do not repeat yourself): DRY methods were used to avoid repeating the same code for multiple tasks which make it easier to code and make it short.
 •	Loops: while and for loops allow repeating t asks easily, such as adding multiple services or creating multiple bookings.
 •	Global variable: A global variable is used to add unique booking IDs to each new booking.
 
